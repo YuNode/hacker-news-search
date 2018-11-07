@@ -1,3 +1,13 @@
+## News Site made in React
+
+News site where you can search news using the search bar, filter by the type of result you expect (story/comment/all), the date range, and order by popularity or date. Also you are able to switch between the different pages of results.
+The app fetches the results obtained from the search parameters indicated, and shows them to the user.
+
+![](hacker-news-search.gif)
+
+![](hacker-news-search.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
